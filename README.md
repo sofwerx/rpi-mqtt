@@ -1,7 +1,7 @@
 # rpi-mqtt
 
-[![Build Status](https://travis-ci.org/ianblenke/rpi-mqtt)](https://travis-ci.org/ianblenke/rpi-mqtt)
+[![Build Status](https://travis-ci.org/sofwerx/rpi-mqtt)](https://travis-ci.org/sofwerx/rpi-mqtt)
 
-This is the Dockerfile behind `ianblenke/rpi-mqtt` on Docker Hub, setup to autobuild through travis.
+This is the Dockerfile behind `sofwerx/rpi-mqtt:latest` on Docker Hub, setup to autobuild through travis.
 
 This runs an MQTT server.
